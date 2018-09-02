@@ -1,3 +1,3 @@
-# eos_account_creator
+# eos_account_creator by Rocky
 ## EOS Public Account Creation Service
-This is the source code of the website https://eos-account-creator.com/
+用于自助创建EOS账号，感谢angelol提供最初的版本。
